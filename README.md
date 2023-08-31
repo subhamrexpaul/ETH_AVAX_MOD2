@@ -12,7 +12,7 @@ To swiftly embark on this coding journey, follow these steps to breathe life int
 2. Unfold the canvas of your Visual Studio Code with two additional terminals.
 3. Within the second terminal, usher in the Ethereum node with this directive: `npx hardhat node`
 4. Within the third terminal, unveil the deployment script using the command: `npx hardhat run --network localhost scripts/deploy.js`
-5. Return to the first terminal and orchestrate the symphony with the command: `npm run dev, thus launching the frontend.`
+5. Return to the first terminal and orchestrate the symphony with the command: `npm run dev`, thus launching the frontend.
 
 With these actions, the project will spring to life on your very own localhost, predominantly accessible at `http://localhost:3000/`
 
